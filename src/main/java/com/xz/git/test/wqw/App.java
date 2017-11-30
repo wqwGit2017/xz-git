@@ -1,4 +1,4 @@
-package com.xz.git.test.git_test;
+package com.xz.git.test.wqw;
 
 /**
  * Hello world!
