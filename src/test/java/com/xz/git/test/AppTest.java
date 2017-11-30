@@ -1,4 +1,4 @@
-package com.xz.git.test.git_test;
+package com.xz.git.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
