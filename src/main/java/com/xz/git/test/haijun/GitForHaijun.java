@@ -9,5 +9,6 @@ public class GitForHaijun {
 		System.out.println("test merge1 2");
 		System.out.println("test merge1 3");
 		System.out.println("test merge1 4");
+		System.out.println("test merge1 5");
 	}
 }
