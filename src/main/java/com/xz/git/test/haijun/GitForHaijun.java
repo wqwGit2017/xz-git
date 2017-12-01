@@ -5,5 +5,6 @@ public class GitForHaijun {
 		System.out.println("git test by haijun");
 		System.out.println("test merge");
 		System.out.println("test merge");
+		System.out.println("test merge 2");
 	}
 }
